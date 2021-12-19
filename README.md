@@ -7,7 +7,7 @@ long-term capital needs, income management and expansion policies. Includes case
 
 # PROJECT
 
-# ALUATION PROJECT: COSTCO WHOLESALE CORPORATION
+# VALUATION PROJECT: COSTCO WHOLESALE CORPORATION
 
 # SUMMARY
 Costco Wholesale Corporation is members-only warehouse store, selling a variety of
